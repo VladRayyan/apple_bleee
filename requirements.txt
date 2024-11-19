@@ -1,10 +1,9 @@
 bs4
 fleep
 Pillow
-pybluez
+pybluez==0.23
 requests
-pycrypto
+pycryptodome  
 netifaces
 prettytable
 libarchive-c
-ctypescrypto
